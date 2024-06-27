@@ -2,6 +2,16 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata"
       xmlns:n1="http://www.w3.org/2001/XMLSchema-instance">
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Test_DOB__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Test_Data1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Auto_Part__c-Auto Part Layout</layout>
     </layoutAssignments>
