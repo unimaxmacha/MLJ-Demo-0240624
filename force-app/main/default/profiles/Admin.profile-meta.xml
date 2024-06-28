@@ -10,6 +10,16 @@
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Test_DOB__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.Test_Data1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginHours n1:nil="true" />
     <loginIpRanges>
         <description>All</description>
